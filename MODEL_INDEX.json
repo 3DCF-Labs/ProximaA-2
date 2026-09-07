@@ -1,0 +1,24 @@
+{
+  "accelerated_release_eligible": true,
+  "candidate_manifest_sha256": "7d7509f464495a79a6a44ae15a58eef28e3351495181aee84485f0c9fc2242f0",
+  "complete": true,
+  "full_plan_validation_complete": false,
+  "products": {
+    "flagship": {
+      "adapter": "00a117b77a009c6a2979e924d5a8196797bd36691de44151c639597f1b1acf21",
+      "basic_gate_sha256": "7f36ee36802f01c06cdd845f747096dc93b62d7c38ec5531028b8b6504489590",
+      "huggingface": "3dcf-labs/ProximaA-2",
+      "model": "eec042f4afcadbb45e7f281b1ce75a2adcc385c175640258ee7cd8dbaf02d36c",
+      "q4": "f69e5481bb10b4d2fe2a60b15bfb91f6f650c4aa6fe2a3484af51b8d7d1bddad"
+    },
+    "mini": {
+      "adapter": "22f59ee4071d23680b28f40a83a70d61f96cdf4236eab69d4897e3aebfcf37ea",
+      "basic_gate_sha256": "7ed745a5f889c07ce60a6c1a56cd0b649f38234eedac50fa2c98fce5ce7a0285",
+      "huggingface": "3dcf-labs/ProximaA-Mini",
+      "model": "961629226e67c89f0aafc98ff1ad9316db6342e747cc716862d04a99fe4cd5bf",
+      "q4": "907acaa64c5657d9fc9b7bd73943e076a813a22ae346edb39f44329ac4fde2be"
+    }
+  },
+  "raw_private_material_included": false,
+  "schema_version": 1
+}
